@@ -1,16 +1,23 @@
-# news
+# News App
 
-A new Flutter project.
+News mobile app using Flutter framework. In app you can read trending news or news of certain categories, such as sports, science etc.
 
-## Getting Started
+## Story
 
-This project is a starting point for a Flutter application.
+This app is build as part of my personal Flutter Developer portfolio. This app shows my skills in:
 
-A few resources to get you started if this is your first Flutter project:
+ 1. Usage of different built-in stateless/statefull widgets and making my own custom responsible widgets with fields;
+ 2. News API asynchronus handling;
+ 3. Integration model into different widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Use cases
+ 
+Using this app you can:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  1. Read trending worldwide news, sorted by date of publishing;
+  2. Read news of certain categories: sports, health, entertainment and scince.
+
+### That's it for now!
+
+But I'll definitively going to add a lot more features.
+Thanks for reading!
