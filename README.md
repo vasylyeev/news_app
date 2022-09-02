@@ -17,6 +17,8 @@ Using this app you can:
   1. Read trending worldwide news, sorted by date of publishing;
   2. Read news of certain categories: sports, health, entertainment and scince.
 
+![App UI](readme_src/App_UI.png)
+
 ### That's it for now!
 
 But I'll definitively going to add a lot more features.
