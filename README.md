@@ -18,8 +18,3 @@ Using this app you can:
   2. Read news of certain categories: sports, health, entertainment and scince.
 
 ![News_app_ui](https://user-images.githubusercontent.com/71003593/188285180-abc78715-28a7-4671-bbf5-0c205fe010bb.png)
-
-### That's it for now!
-
-But I'll definitively going to add a lot more features.
-Thanks for reading!
